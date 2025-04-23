@@ -1,9 +1,9 @@
 # Project 3: Chris Alpuerto, Jonathan Quiroz
 
-## Crafting the Infinite-Charm Bracelet
+## Algorithm 1: Crafting the Infinite-Charm Bracelet
 
-### Author: Chris Alpuerto
-### Email: chrisalpuerto@csufullerton.edu
+Author: Chris Alpuerto
+Email: chrisalpuerto@csufullerton.edu
 ### How to Run: 
 
 
@@ -11,8 +11,8 @@
 
 ## Wine Value Maximizer - Algorithm 2
 
-### Author: Jonathan Quiroz
-### Email: jquiroz44@csu.fullerton.edu
+Author: Jonathan Quiroz
+Email: jquiroz44@csu.fullerton.edu
 
 ### How to Run:
 1. Ensure you have Python 3 installed on your machine.
